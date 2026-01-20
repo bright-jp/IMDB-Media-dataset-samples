@@ -1,4 +1,4 @@
-# IMDB Media Dataset Sample
+# IMDB Media データセットサンプル
 
 <h2>1,021件のレコードからなるサンプルデータセット</h2>
 
