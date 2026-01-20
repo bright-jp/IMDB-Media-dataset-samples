@@ -1,68 +1,68 @@
 # IMDB Media Dataset Sample
 
-<h2>A sample dataset of 1,021 records</h2>
+<h2>1,021件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/IMDB-Media-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **IMDB Media Dataset Sample** includes **1,021 records** and was extracted using the **Bright Data API**.
+この **IMDB Media Dataset Sample** には **1,021件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `title` | The official title of the media content. |
-| `popularity` | A measure of the content's popularity on the IMDB platform. |
-| `genres` | A list of genres associated with the content. |
-| `presentation` | A brief summary or presentation of the media content. |
-| `credit` | Details about the creators, including directors and writers. |
-| `videos` | Links and details of video content related to the media. |
-| `photos` | Links and details of photo content related to the media. |
-| `top_cast` | Information about the top-billed cast members. |
-| `details_release_date` | The official release date of the media content. |
-| `details_countries_of_origin` | The countries where the media was produced. |
-| `details_official_site` | The official website link for the media content. |
-| `details_language` | The primary language(s) of the media content. |
-| `details_also_known_as` | Alternative titles or names for the media content. |
-| `details_filming_locations` | Locations where the media was filmed. |
-| `details_production_companies` | Companies involved in the production of the media. |
-| `specs_color` | Information about the color specifications of the media. |
-| `specs_sound_mix` | Details about the sound mix specifications of the media. |
-| `specs_aspect_ratio` | The aspect ratio specifications of the media. |
-| `url` | The URL link to the media's IMDB page. |
-| `comment` | User comments or reviews about the media. |
-| `media_type` | The type of media content, e.g., movie or TV show. |
-| `imdb_rating` | The average rating of the media on IMDB. |
-| `poster_url` | URL to the media's official poster image. |
-| `imdb_rating_count` | The number of ratings the media has received on IMDB. |
-| `awards` | Awards and nominations received by the media. |
-| `critics_review_count` | Count of critic reviews available for the media. |
-| `review_count` | Total number of user reviews for the media. |
-| `review_rating` | Average rating from user reviews. |
-| `featured_review` | Highlighted or notable review for the media. |
-| `storyline` | A detailed plot or storyline description of the media. |
-| `boxoffice_budget` | The production budget of the media content. |
-| `id` | Unique identifier for the media content in the dataset. |
+| `title` | メディアコンテンツの公式タイトルです。 |
+| `popularity` | IMDBプラットフォーム上におけるコンテンツの人気度の指標です。 |
+| `genres` | コンテンツに関連するジャンルの一覧です。 |
+| `presentation` | メディアコンテンツの簡単な要約または紹介です。 |
+| `credit` | 監督や脚本家を含む制作者に関する詳細です。 |
+| `videos` | メディアに関連する動画コンテンツのリンクおよび詳細です。 |
+| `photos` | メディアに関連する写真コンテンツのリンクおよび詳細です。 |
+| `top_cast` | 上位にクレジットされているキャストメンバーに関する情報です。 |
+| `details_release_date` | メディアコンテンツの公式公開日です。 |
+| `details_countries_of_origin` | メディアが制作された国です。 |
+| `details_official_site` | メディアコンテンツの公式サイトへのリンクです。 |
+| `details_language` | メディアコンテンツの主な言語です。 |
+| `details_also_known_as` | メディアコンテンツの別題または別名です。 |
+| `details_filming_locations` | メディアが撮影された場所です。 |
+| `details_production_companies` | メディアの制作に関与した会社です。 |
+| `specs_color` | メディアのカラー仕様に関する情報です。 |
+| `specs_sound_mix` | メディアのサウンドミックス仕様に関する詳細です。 |
+| `specs_aspect_ratio` | メディアのアスペクト比仕様です。 |
+| `url` | メディアのIMDBページへのURLリンクです。 |
+| `comment` | メディアに関するユーザーコメントまたはレビューです。 |
+| `media_type` | メディアコンテンツの種類（例：映画、TV番組）です。 |
+| `imdb_rating` | IMDB上でのメディアの平均評価です。 |
+| `poster_url` | メディアの公式ポスター画像へのURLです。 |
+| `imdb_rating_count` | IMDB上でメディアが受けた評価数です。 |
+| `awards` | メディアが受賞またはノミネートされた賞です。 |
+| `critics_review_count` | メディアに対して利用可能な批評家レビューの件数です。 |
+| `review_count` | メディアに対するユーザーレビューの総数です。 |
+| `review_rating` | ユーザーレビューからの平均評価です。 |
+| `featured_review` | メディアの注目または特筆すべきレビューです。 |
+| `storyline` | メディアの詳細なあらすじ／ストーリー説明です。 |
+| `boxoffice_budget` | メディアコンテンツの制作予算です。 |
+| `id` | データセット内でのメディアコンテンツの一意識別子です。 |
 
 
 ## Use Cases
 
 ### 1. Film Industry Analysis
-Analyze trends in film genres and popularity over time to inform production strategies and marketing efforts.
+映画ジャンルや人気度の経時的なトレンドを分析し、制作戦略やマーケティング施策の検討に役立てます。
 
 ### 2. Market Research
-Use the dataset to study consumer preferences and behavior in media consumption, aiding in targeted advertising.
+データセットを用いてメディア消費における消費者の嗜好や行動を調査し、ターゲット広告に活用します。
 
 ### 3. Academic Research
-Facilitate research in media studies by providing comprehensive data on film production, release details, and audience reception.
+映画制作、公開詳細、視聴者の受け止め方に関する包括的なデータを提供し、メディア研究を促進します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で提供されています:
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -82,8 +82,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます:
+- **Once**（一回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -92,14 +92,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+特定の要件に基づいて追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full IMDB Media dataset](https://brightdata.com/products/datasets/imdb)**
+**[Get the full IMDB Media dataset](https://brightdata.jp/products/datasets/imdb)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会的課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** および **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスの申請は [brightinitiative.com](https://brightinitiative.com) で行えます。
