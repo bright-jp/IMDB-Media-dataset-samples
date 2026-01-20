@@ -3,7 +3,7 @@
 <h2>1,021件のレコードからなるサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/IMDB-Media-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/IMDB-Media-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **IMDB Media Dataset Sample** には **1,021件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
